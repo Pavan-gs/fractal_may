@@ -1,7 +1,6 @@
 import os
 l = [10,20,30,40]
-for i in l:
-    print("The square of the elements are:", i*i)
+print(l)
 
 l1 = [10,20,30,40]
 l1.sort()
